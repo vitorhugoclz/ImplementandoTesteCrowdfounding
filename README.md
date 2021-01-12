@@ -1,3 +1,10 @@
+#Teste implementados Doacao_UsuarioAceitaPagarComTaxa_DoacaoValida
+Este teste tem o intuíto de verificar o valor de pagamento quando usuário aceita pagar uma taxa
+
+#Teste implementados Doacao_UsuarioNaoAceitaPagarComTaxa_DoacaoValida
+Este teste tem o intuíto de verificar o valor de pagamento quando usuário não aceita pagar uma taxa
+
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
